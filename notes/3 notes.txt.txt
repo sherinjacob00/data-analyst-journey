@@ -1,0 +1,4 @@
+Git is a version control system that tracks changes in files and code.
+Github is an online platform where developers store and share git repositories.
+Github desktop lets me manage my repositories using a graphical interface.
+
